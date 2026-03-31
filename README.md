@@ -5,7 +5,7 @@
 ## Executive Summary
 This data analytics and data engineering project identifies the key drivers of customer cancellation (Churn Rate) in a fictional SaaS company with 10,000 subscriptions. 
 
-Through an ETL pipeline (Python), relational database design (MariaDB), and SQL analysis, we discovered that the main retention issue **is a high rate of Involuntary Churn** within annual plans due to friction in the billing system.
+Through an ETL pipeline (Python), relational database design (MariaDB), and SQL analysis, there is a big retention issue **a high rate of Involuntary Churn** within annual plans due to friction in the billing system.
 
 ---
 
